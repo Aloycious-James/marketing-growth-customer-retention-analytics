@@ -226,7 +226,7 @@ Output:
 
 # Statistical Significance Testing
 
-![Python Statistical Testing](Images/python_statistical_test.png)
+![Python Statistical Testing](Images/score_abtesting.png)
 
 ### Hypothesis
 
