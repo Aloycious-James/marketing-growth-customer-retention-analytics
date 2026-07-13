@@ -224,6 +224,37 @@ Output:
 
 ---
 
+# Statistical Significance Testing
+
+![Python Statistical Testing](Images/python_statistical_test.png)
+
+### Hypothesis
+
+H0:
+Conversion rates are equal across all experiment groups.
+
+H1:
+At least one experiment group has a significantly different conversion rate.
+
+### Chi-Square Test Result
+
+* Chi-Square Statistic: 1781.13
+* P-Value: < 0.001
+
+### Conclusion
+
+The null hypothesis was rejected, indicating that conversion behavior significantly differs across experiment groups.
+
+### Follow-Up Analysis
+
+Pairwise Two-Proportion Z-Tests were performed to identify which experiment variants significantly outperformed others.
+
+### Business Impact
+
+Statistical validation increased confidence in recommending Variant B for production deployment.
+
+---
+
 ## Power BI Layer
 
 Purpose:
