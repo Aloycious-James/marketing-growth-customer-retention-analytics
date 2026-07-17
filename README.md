@@ -281,13 +281,14 @@ Includes:
 
 ![Executive Dashboard](Images/page1_executive.png)
 
-### Key Insights
+### Key Insights and recommendations
 
-* Revenue Performance
-* Conversion Performance
-* Revenue Trends
-* Variant Performance
-* Executive KPIs
+* We have total 100k customers but 9.88% only stays so almost 90% customers leaves so conversion need improvement.
+* VariantB dominates all others by 12.23% conversion so we can deploy VariantB but need more strog evidence for why it's perform best.
+* Total revenue is 8.37M and electronics dominates revenue by 3.45M so need to invest more on electronics.
+* Organic source contributes high revenue but low conversion so need to investigate conversion on organic.
+* Email have contribute high conversion but low revenue so need to investigate the pricing and products.
+* Every year month end we have high revenue so we need our marketing campaign based on the festivals and seasonal changes.
 
 ---
 
@@ -297,13 +298,14 @@ Includes:
 
 ### Key Findings
 
-* Variant B delivered the highest conversion rate
-* Variant B outperformed Control and Variant A
-* Conversion uplift opportunities identified
+* VariantB is Dominates all others by over all conversion.
+* Major drop at interest and conversion.
+* Direct and Organic had low conversion
+* VariantB have highly improved not only small area or month.
 
 ### Business Decision
 
-Deploy Variant B across future campaigns.
+* Deploy Variant B across future campaigns.
 
 ---
 
@@ -313,13 +315,17 @@ Deploy Variant B across future campaigns.
 
 ### Key Findings
 
-* Significant customer drop-off before conversion
-* Funnel leakage identified across stages
-* Conversion opportunities highlighted
+* 16K customers leaves(18.20%) without reason after enters the page.
+* Interest and conversion have almost 36% customers drop.
+* Oraganic have high revenue but low conversion.
+* Organic reached lot of awareness but very low conversion.
+* Oraganic reached people to consideration but still have weak conversion
 
 ### Business Decision
 
-Optimize stages with highest drop-off rates.
+* Optimize web pages and price.
+* Validate price and offers.
+* direct and referral doesn't works well so need to investigate this and optimized this.
 
 ---
 
@@ -329,13 +335,18 @@ Optimize stages with highest drop-off rates.
 
 ### Key Findings
 
-* Campaign objectives compared
-* Revenue by source analyzed
-* Conversion performance measured
+* Reactivation have high high revenue but low conversion
+* Retention have high conversion and revenue.
+* organic and paid search have high revenue.
+* Reactivation have high revenue across all of sources.
+* Reactivation have high revenue across all over months of year.
+* Customer acquisition have low revenue and it's clearly shows of all of months it's contributes low revenue.
 
 ### Business Decision
 
-Increase investment in high-performing traffic sources.
+* Increase investment on Retention and reactivation
+* Need investigate Email, Social, Referral.
+* Works better on already we had customers compare to new customers aqcuisition.
 
 ---
 
@@ -345,13 +356,19 @@ Increase investment in high-performing traffic sources.
 
 ### Key Findings
 
-* Customer loyalty behavior analyzed
-* Revenue contribution by segment measured
-* Retention performance evaluated
+* Bronze have high revenue due to high orders.
+* Retention works well but best performance is Direct/Organic.
+* Bronze have high retention.
+* Retruning campaign works very well but acquiring new customers doesn't works well.
+
+### Problem
+
+* Loyalty upgrade is going very weak.
 
 ### Business Decision
 
-Focus on retaining high-value customer segments.
+* Focus on upgrading bronze customers into silver, gold and platinum.
+* Need improvement on new customers acquisition but focus on retension more.
 
 ---
 
@@ -361,11 +378,11 @@ Focus on retaining high-value customer segments.
 
 ### Recommendation Areas
 
-* Conversion Optimization
-* Campaign Optimization
-* Customer Retention
-* Funnel Improvement
-* Revenue Growth
+* Deploy VariantB
+* Focus on improving Direct/Organic
+* Improve loyalty program for Bronze tier.
+* Improve webpage and investigate pricing.
+* Focus on retension and reactivation.
 
 ---
 
